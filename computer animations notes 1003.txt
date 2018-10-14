@@ -1,0 +1,10 @@
+mesh tool, sculpting tools there
+grab tool
+^good way to age things
+
+mesh tools, sculting tools, scult tool
+	works on nervs and polygon model
+
+uv-automatic ..... if the uv grid is messed up, it will automaticlly reapply it to the object
+
+transmition=transperency

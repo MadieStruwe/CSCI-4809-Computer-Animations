@@ -1,0 +1,18 @@
+9-12
+vlc-video player, will need to hae video play on that
+2nd hw will be get reference images of large room
+room can be big room and camera look around, or smaller rooms where the camera walks us though it
+
+cv curvs
+put points to create curev
+copy paste curve
+move one
+selectt one then the other
+surfaces, loft
+loft a survace between them
+
+cv curve, make a circle, and anither curve
+---enter terminates a tool on maya---
+shift select, circle, then curve
+surfaces, extrude
+

@@ -1,0 +1,50 @@
+HW1 talk of making an object in a scene 
+not graded on quality, but if we did it
+(table top)
+create polygon cube
+make it wider and longer
+right clck in edge mode, shift the top edges
+bevel -> turns an edge into a face
+edit mesh 
+(table legs)
+create, cd curve tool
+click create line, revolve
+4 legs, 
+create heracrchy, make the legs children of the table top
+
+create a light in the sence 
+create light that is native to maya (directional light, simulates the sum)
+doesnt matter were or size, what matters is orentatin in 3 space
+go in hypershade
+create, arnold shader surface, arnald standard surface
+right click material, graph network
+left click base color, can choose color, but instead go to chechardboard, 2d textures, file
+file in graph network, click yellow folder, we want to have the files in source images
+objct mode on the table, select the whole thing, right click the material in hypershade and assign it, pull up render window
+hypershade, light, light tab, bring up intensit
+reapeat attribute for the texture, increase it 
+in photoshop (krita), go to maya, project, default, source images (find the one used), create new luminocity layer, save as a jpeg (good idea to actually change the name)
+back in hypershade, material square, bumpmapping, do that same thing as before to find the file and must rematch the tiling
+if white spots, material, proerties, make colors darker than white (specular highlights?)
+change directiosn
+go to material, douplicate, grab it, go to its graph nework,placment nodes, rotate frame 90
+select the legs (because they are children) and put the maieral on via a right click
+creaet polugon cube, scale it up! simulate a room sorta, render it again and see there is no liht
+arnold, lights, skydome light, intensity is 1 and exposue is 0 (gotta fix that, need non 0 exposure to work)
+go to top of cube, deleate top face, its floating and there is no shadows
+object mode, grab the move tool and lower it until it is on the bottom
+now there will be some shadows
+create, cameras, create camera
+grab camera with move tool, line it up with table
+panel, perspective, camera 1 (see what acamera sees)
+4 way view, panel, perspective, camera 1, zoom out in orthoginal to see the cameras
+***s means make a key frame***
+
+save video as masterfile
+
+HW1
+make an object
+name everything
+put materials on objects
+done in 2 weeks from today, Oct 1
+week from today, bring in jpegs of what i want to model, bring in on flash drive
