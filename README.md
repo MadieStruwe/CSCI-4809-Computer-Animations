@@ -1,3 +1,3 @@
 # CSCI-4809-Computer-Animations
 
-hello
+notes for CSCI 4809 Computer Animations for Fall 2018
