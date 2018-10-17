@@ -1,0 +1,59 @@
+9-10
+table makde of cylender, wide and short
+3 ways to scale, 1 use scale tool and grab, 2. move slider, 3. pick units (best way, not random)
+rest of table was made of pipe, starts ar (0,0,0)
+more subdivisions make is smoother
+legs made, with deformer. took cube, made it taller
+mesh, mesh tools
+deformers, bend
+deform, non linear, bend
+	deformer is a slider
+	need subdivisions to bend, needs edges top and bottom
+		hrizontal subdivisoons needed
+
+	if you deform something, duplicate for multiple objects
+
+	delete, by tyoe, history -> will rid of deformer
+	better to have object off screep with its deforms somewhere else, and just have copies in screen
+	to duplicate, you can copy and paste or use duplicate
+	\bend deformer in deformer meneu
+
+when making something, have the real world object as reference for dimensions
+t-shirt (is in book)
+	cube
+	width 20
+	height 20
+	depth 5
+	subdivisions 3 vertical
+	subdivisons 5 height
+	
+	extrude tool
+	face mode, right click and pull to face mode to extrude
+	right clock to object mode
+	under mesh, tool called smooth, set to 1
+		smoothing breaks surface into subpolygons, to faces at a right angle, it will insert two faces to smooth it out
+	settings on smooth, set to 3, much more smooth
+	back into object mode via right click
+	go from modeling to fx
+	go to "cloth", n-cloth
+	create plane, scale it up
+	still in object mode on plane, lower it below shirt
+	go to encloth, create passive colider (it wont move, but things will hit it)
+	select object the tshirt
+	field/solvers, create gravity (can change and set it any way)
+	left click timeline, can run it
+
+ctrl pluse left click, tubling the chamera around
+scroll dollies the camera in and out
+
+stack of rectangles, get something called "layers"
+with tshit selected, layer, create layer from selected, can make it invisable or visable
+
+
+clean new scene
+in the 4 views
+	nerves modeling, make curves and turn curves into surfices
+curve, line modeling, cv line(?)
+click to put vertexes to determine where curve goes
+then hit enter
+surfaces, revolve

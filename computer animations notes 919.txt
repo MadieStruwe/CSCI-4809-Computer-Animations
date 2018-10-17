@@ -1,0 +1,8 @@
+1027*720 frame dimensions
+
+skydome light, attributes on color, file texture (same as with material textures) to have a wraparound the scence (360 degree image)
+use arnald area lights
+maya lights, spot, point, directional
+
+render settings, jpeg
+render settings, arnald, 

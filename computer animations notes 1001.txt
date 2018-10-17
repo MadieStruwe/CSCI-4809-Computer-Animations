@@ -1,0 +1,7 @@
+create, free plane image, icon that looks like a folder, pull up an image
+	can use this as a template to use for floorplan, or other images for sclae of objects
+
+mesh, insert edge loops, to insert edgeloop for winows, horizontally and vertically, then delere the face you need to go away
+
+consider making walls a cub not a plane
+

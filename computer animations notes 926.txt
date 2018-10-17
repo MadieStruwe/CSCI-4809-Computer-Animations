@@ -1,0 +1,10 @@
+looking at pictures
+
+modify dropdown
+vertex mode on 2 objects, modify, snap align, 2 pts or 3 pts
+
+conentent brouser
+deform, lattice (deform polygon object in a gradual way) latticce deformer
+
+soft selection
+modify-transform tool-proprtional modification tool

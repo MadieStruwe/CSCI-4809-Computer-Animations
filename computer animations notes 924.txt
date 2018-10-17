@@ -1,0 +1,12 @@
+usefull tool
+create a cube, make it tall, give lot of subdivisions on the height. duplicate. 
+move duplicate over
+mesh, combine the two, makes the two one object, center is in the middle of the two
+face mode on both of them, shift select the top face on the top of both, tool called bridge (divisions set to even number) hit bridge and it makes an arch
+edge mode, mesh tools, insert edge loop, insert exta edge loops, enter
+vertex mode, shift select vertecies, can use extrude tool to push in faces
+
+
+multicut tool, allows to put in single edge at an angle
+move tool + d can move pivot point for rotation, for ex doors
+windos, general editor, content browser
